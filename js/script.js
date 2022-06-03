@@ -43,3 +43,5 @@ button.onclick = function(){
 	ostatok = 0;
 	number = 0;
 }
+
+let number = 0;
